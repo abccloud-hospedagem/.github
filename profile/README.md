@@ -1,4 +1,3 @@
-
 # ABC CLOUD (abccloud)
 
 🎮🐔 ABCcloud.com.br — Hospedagem Premium para Bots Discord 🚀
@@ -14,12 +13,7 @@ Alta performance garantida 🔥
 Uptime de 99.9% 💻
 Configuração e suporte 24/7 🛠️
 Planos customizáveis para qualquer tipo de bot 🤖
-🎮 Hospedagem de Servidores CS2:
 
-Servidores de baixa latência 🌍
-Gerenciamento simples com painel de controle fácil de usar 🎛️
-Proteção DDoS de alta qualidade 🛡️
-Escalabilidade conforme sua comunidade cresce 👥
 💼 Nossa Missão
 Proporcionar aos nossos clientes uma infraestrutura sólida e confiável, permitindo que foquem no que realmente importa: criar experiências incríveis para suas comunidades. 💪
 
