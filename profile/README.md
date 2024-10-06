@@ -17,7 +17,5 @@ Na ABC cloud, levamos a sério a experiência do usuário. Seja você é um dese
 💬 Entre em Contato
 Suporte: profissionalzeninbounter@gmail.com 📧
 Discord: ABCcloud Server 🔗
-📜 Licença
-Este repositório está licenciado sob a MIT License. Sinta-se à vontade para contribuir! 🤝
-
+<br>
 Feito com 💙 pela equipe ABCcloud.com.br
