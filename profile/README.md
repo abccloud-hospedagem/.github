@@ -4,7 +4,6 @@
 
 Bem-vindo ao repositório oficial da ABC Cloud! Somos uma empresa dedicada a oferecer hospedagem rápida, estável e segura para os seus bots de Discord. 🎯
 
-🚀 Nossos Serviços
 Na ABC cloud, levamos a sério a experiência do usuário. Seja você é um desenvolvedor de bots, oferecemos soluções personalizadas para suas necessidades:
 
 📦 Como Usar Nosso Serviço? <br>
