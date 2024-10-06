@@ -6,7 +6,7 @@
 Bem-vindo ao repositório oficial da ABC Cloud! Somos uma empresa dedicada a oferecer hospedagem rápida, estável e segura para os seus bots de Discord. 🎯
 
 🚀 Nossos Serviços
-Na Gratian.pro, levamos a sério a experiência do usuário. Seja você um desenvolvedor de bots ou um administrador de servidores de jogos, oferecemos soluções personalizadas para suas necessidades:
+Na ABC cloud, levamos a sério a experiência do usuário. Seja você um desenvolvedor de bots ou um administrador de servidores de jogos, oferecemos soluções personalizadas para suas necessidades:
 
 ⚙️ Hospedagem de Bots Discord:
 
@@ -24,13 +24,10 @@ Escalabilidade conforme sua comunidade cresce 👥
 Proporcionar aos nossos clientes uma infraestrutura sólida e confiável, permitindo que foquem no que realmente importa: criar experiências incríveis para suas comunidades. 💪
 
 📦 Como Usar Nosso Serviço?
-Cadastre-se no site Gratian.pro 🌐
+Cadastre-se no site ABCcloud.com.br 🌐
 Escolha o plano desejado 🎮
 Configure rapidamente através do nosso painel intuitivo 📊
 Aproveite uma hospedagem robusta e um suporte de excelência! 🎉
-🚧 Status do Sistema
-Verifique o status dos nossos servidores e mantenha-se atualizado sobre manutenções programadas e quaisquer interrupções inesperadas. 📡
-Status Gratian.pro 📊
 
 💬 Entre em Contato
 Suporte: profissionalzeninbounter@gmail.com 📧
