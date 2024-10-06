@@ -8,10 +8,7 @@ Bem-vindo ao repositório oficial da ABC Cloud! Somos uma empresa dedicada a ofe
 Na ABC cloud, levamos a sério a experiência do usuário. Seja você é um desenvolvedor de bots, oferecemos soluções personalizadas para suas necessidades:
 
 📦 Como Usar Nosso Serviço?
-Cadastre-se no site ABCcloud.com.br 🌐
-Escolha o plano desejado 🎮
-Configure rapidamente através do nosso painel intuitivo 📊
-Aproveite uma hospedagem robusta e um suporte de excelência! 🎉
+Cadastre-se no site ABCcloud.com.br -> Escolha o plano desejado -> Configure rapidamente através do nosso painel intuitivo -> Aproveite uma hospedagem robusta e um suporte de excelência! 🎉
 
 💬 Entre em Contato
 Suporte: profissionalzeninbounter@gmail.com 📧
