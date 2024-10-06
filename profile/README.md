@@ -15,6 +15,6 @@ Na ABC cloud, levamos a sério a experiência do usuário. Seja você é um dese
 <li>Aproveite uma hospedagem robusta e um suporte de excelência! 🎉</li>
 <br>
 💬 Entre em Contato
-Discord: <a href="">ABCcloud Server</a> 🔗
+Discord: <a href="https://discord.com/invite/cFRHfMup">ABCcloud Server</a> 🔗
 <br>
 Feito com 💙 pela equipe ABCcloud.com.br
