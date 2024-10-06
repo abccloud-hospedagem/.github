@@ -10,9 +10,9 @@ Na ABC cloud, levamos a sério a experiência do usuário. Seja você é um dese
 📦 Como Usar Nosso Serviço? <br>
 
 <li>Cadastre-se no site ABCcloud.com.br</li> <br>
-Escolha o plano desejado
-Configure rapidamente através do nosso painel intuitivo
-Aproveite uma hospedagem robusta e um suporte de excelência! 🎉
+<li>Escolha o plano desejado</li>
+<li>Configure rapidamente através do nosso painel intuitivo</li>
+<li>Aproveite uma hospedagem robusta e um suporte de excelência! 🎉</li>
 
 💬 Entre em Contato
 Suporte: profissionalzeninbounter@gmail.com 📧
